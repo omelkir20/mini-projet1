@@ -30,18 +30,34 @@ L'application est composée de deux briques : le frontend, accessible à l'utili
                  Communication DNS
 Le frontend communique avec l'API en utilisant le nom DNS de son Service. Les Services assurent la communication interne, tandis que l'Ingress permet l'accès depuis l'extérieur du cluster.
 Étape 0 : Préparer le terrain
-
+![](cap/c1.PNG)
+![](cap/c2.PNG)
+![](cap/c3.PNG)
+![](cap/etape0.PNG)
+![](cap/etape0.1.PNG)
+![](cap/etape0.2.PNG)
 Étape 1 : Déployer l'API
-![Capture 1](cap/c1.png)
-![Description de l'image](cap/c1.PNG)
-![Description de l'image](cap/c3.png)
+![](cap/etape1.PNG)
+![](cap/etape1.1.PNG)
 Étape 2 : Déployer le frontend
-![Description de l'image](cap/c1.png)
+![](cap/etape2.PNG)
+![](cap/etape2.1.PNG)
 Étape 3 : Créer les Services et tester la communication interne
-![Description de l'image](cap/c1.png)
+![](cap/etape3.PNG)
+![](cap/etape3.1.PNG)
 Étape 4 : Exposer les applications avec Ingress
-![Description de l'image](cap/c1.png)
+![](cap/etape4.PNG)
+![](cap/etape4.1.PNG)
+![](cap/etape4.2.PNG)
 Étape 5 : Mise à jour sans interruption
-![Description de l'image](cap/c1.png)
+![](cap/etape5.PNG)
+![](cap/etape5.1.PNG)
+![](cap/etape5.2.PNG)
 Étape 6 : Panne et diagnostic
-![Description de l'image](cap/c1.png)
+![](cap/etape6.PNG)
+![](cap/etape6.1.PNG)
+![](cap/etape6.2.PNG)
+![](cap/etape6.3.PNG)
+![](cap/etape6.4.PNG)
+![](cap/etape6.5.PNG)
+![](cap/etape6.6.PNG)
