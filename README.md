@@ -32,7 +32,9 @@ Le frontend communique avec l'API en utilisant le nom DNS de son Service. Les Se
 Étape 0 : Préparer le terrain
 
 Étape 1 : Déployer l'API
-![Description de l'image](captures/01-namespace.png)
+![Description de l'image](cap/c1.png)
+![Description de l'image](cap/c2.png)
+![Description de l'image](cap/c3.png)
 Étape 2 : Déployer le frontend
 ![Description de l'image](captures/01-namespace.png)
 Étape 3 : Créer les Services et tester la communication interne
