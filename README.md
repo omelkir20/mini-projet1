@@ -33,7 +33,7 @@ Le frontend communique avec l'API en utilisant le nom DNS de son Service. Les Se
 
 Étape 1 : Déployer l'API
 ![Capture 1](cap/c1.png)
-![Description de l'image](cap/c2.png)
+![Description de l'image](cap/c1.PNG)
 ![Description de l'image](cap/c3.png)
 Étape 2 : Déployer le frontend
 ![Description de l'image](cap/c1.png)
